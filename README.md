@@ -15,6 +15,7 @@ To get started with this project, you can clone this repository to your local ma
 ```
 git clone https://github.com/Yoohoo-cf/turtle_race_game
 cd turtle_race_game
+```
 
 ## Running the Script
 
@@ -22,6 +23,7 @@ To run the game, navigate to the directory containing the script and execute the
 
 ```
 python3 turtle_race_game.py
+```
 A graphical window will open asking you to make a bet on a turtle's color. After placing your bet, the race will start. You will see a series of turtles racing towards the finish line. The concole will print a message indicating whether you won or lost based on your bet.
 
 ## Game Features
